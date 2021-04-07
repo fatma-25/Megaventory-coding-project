@@ -15,6 +15,11 @@ ProductDescription.js component is a modal that contain each product's details
 
 ![image](https://user-images.githubusercontent.com/56034934/113943940-f81e6f00-9803-11eb-87e5-b4451790460c.png)
 
+![image](https://user-images.githubusercontent.com/56034934/113946628-2488ba00-9809-11eb-9bbe-3123274ff626.png)
+
+![image](https://user-images.githubusercontent.com/56034934/113946667-3b2f1100-9809-11eb-90a6-28e43b8f25f2.png)
+
+
 
 
 ## Available Scripts
