@@ -1,4 +1,11 @@
+### coding project description
+in App.js i fetch the data from the api and map it into a list of card
+ProductDescription.js component is a modal that contain each product's details
+![image](https://user-images.githubusercontent.com/56034934/113943877-dc1acd80-9803-11eb-9add-3ae07850a624.png)
+![image](https://user-images.githubusercontent.com/56034934/113943940-f81e6f00-9803-11eb-87e5-b4451790460c.png)
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
